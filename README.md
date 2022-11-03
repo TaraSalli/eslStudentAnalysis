@@ -5,9 +5,10 @@
 After spending the last couple years focusing my Global Scholars research on global primary education equity, I knew I wanted to continue exploring education equity for this project, but now on a smaller scale. I initially searched for datasets that contained data for the entirety of the U.S.; however, I eventually narrowed down my search to just the state of Connecticut in order to provide for a more narrowed area of research, and thus more accurate data.
 
 For this project, I explored three questions:
-    1. What percentgae of students in all of Connecticut are ELL students? What percentage are non-ELL students?
-    2. What is the most lingusitically diverse town in Connecticut? And what percentage of their students are ELL students? What are the least linguistically diverse towns in Connecticut? And what percentage of their students are ELL students?
-    3. What is the most linguistically diverse town in Connecticut ranked as in terms of education equity?
+
+1. What percentgae of students in all of Connecticut are ELL students? What percentage are non-ELL students?
+2. What is the most lingusitically diverse town in Connecticut? And what percentage of their students are ELL students? What are the least linguistically diverse towns in Connecticut? And what percentage of their students are ELL students?
+3. What is the most linguistically diverse town in Connecticut ranked as in terms of education equity?
 
 
 ## Methods
@@ -15,9 +16,9 @@ For this project, I explored three questions:
 ### Datasets
 The first dataset is produced by the Connecticut State Department, and it contains information about the number of enrolled students per year who have English language learner status, compared to the number who speak english natively, categorized by school district.
 
-The second dataset is produced by the U.S. Census Bureau and the National Center for Education Statistics, and it contains a large majority of the Connecticut public school districts, ranked in terms of how equitable the distribution of funding is
+The second dataset is produced by the U.S. Census Bureau and the National Center for Education Statistics, and it contains a large majority of the Connecticut public school districts, ranked in terms of how equitable the distribution of funding is.
 
-Both datasets can be used for independent research purposes because they are under the creative commons license
+Both datasets can be used for independent research purposes because they are under the creative commons license.
  
 ### Process
 For the first two questions, I only required data from the first dataset. To see what percentgae of students in all of Connecticut are ELL students, I iterated through all of the school districts (that had available data) and calculated the total of ELL students, non-ELL students, as well as the overall total of students.
